@@ -10,4 +10,12 @@ One of example of final prediction:
 
 ![alt text](./test_image.jpeg)
 
+![alt text](./image_cap_model.jpeg)
+
+![alt text](./image_model.jpeg)
+
+![alt text](./imgcap_loss_plots.jpeg)
+
+![alt text](./language_model.jpeg)
+
 Two dogs running running white dog dog a brown dog the grass .
