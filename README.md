@@ -10,4 +10,4 @@ One of example of final prediction:
 
 ![alt text](./test_image.jpeg)
 
-Two dogs running running white dog dog a brown dog the grass .
+Two dogs running white dog and brown dog on the grass .
